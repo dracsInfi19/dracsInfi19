@@ -50,13 +50,7 @@ Multiplier Architectures
 
 <td align="center" width="25%">
 
-### `04`
 
-**BUILD**
-
-Arduino  
-ESP32  
-Hardware Experiments
 
 </td>
 </tr>
