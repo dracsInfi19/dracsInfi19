@@ -2,11 +2,11 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:071A2F,75:0B3048,100:00D9FF&height=260&section=header&text=DRACSINFI19&fontSize=72&fontColor=FFFFFF&fontAlignY=43&animation=fadeIn&desc=ELECTRONICS%20%2F%20VLSI%20%2F%20DIGITAL%20HARDWARE%20%2F%20RESEARCH&descSize=17&descAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:071A2F,75:0B3048,100:00D9FF&height=260&section=header&text=DRACSINFI19&fontSize=72&fontColor=FFFFFF&fontAlignY=43&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=ENGINEERING+THE+HARDWARE+BEHIND+COMPUTATION;VLSI+%7C+RTL+%7C+VERILOG+%7C+COMPUTER+ARITHMETIC;EXPLORING+APPROXIMATE+COMPUTING;BUILDING+%E2%86%92+MEASURING+%E2%86%92+OPTIMIZING+%E2%86%92+RESEARCHING" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=ENGINEERING+THE+HARDWARE+BEHIND+EVERYTHING"/>
 
 <br><br>
 
@@ -67,18 +67,18 @@ Multiplier Architectures
 <br><br>
 
 ```text
-╭────────────────────────────────────────────────────────────────────╮
-│                                                                    │
-│   HARDWARE                         RESEARCH                         │
-│   ────────                         ────────                         │
-│   DIGITAL DESIGN                   APPROXIMATE COMPUTING            │
-│   RTL / VERILOG                    4:2 COMPRESSORS                  │
-│   EMBEDDED SYSTEMS                 MULTIPLIER ARCHITECTURES         │
-│                                                                    │
-│                         LEARN → BUILD →                             │
-│                    MEASURE → OPTIMIZE → RESEARCH                   │
-│                                                                    │
-╰────────────────────────────────────────────────────────────────────╯
+╭────────────────────────────────────────────────────────────────────────────╮
+│                                                                            │
+│   HARDWARE                         RESEARCH                                 │
+│   ────────                         ────────                                 │
+│   DIGITAL DESIGN                   APPROXIMATE COMPUTING                    │
+│   RTL / VERILOG                    4:2 COMPRESSORS                          │
+│   EMBEDDED SYSTEMS                 MULTIPLIER ARCHITECTURES                 │
+│                                                                            │
+│                         LEARN → BUILD →                                     │
+│                    MEASURE → OPTIMIZE → RESEARCH                           │
+│                                                                            │
+╰────────────────────────────────────────────────────────────────────────────╯
 ```
 
 <br>
@@ -102,18 +102,18 @@ Multiplier Architectures
 <br>
 
 ```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║                     DRACSINFI19 // CORE                          ║
-║                                                                  ║
-║   FIELD        : ELECTRONICS & COMMUNICATION ENGINEERING         ║
-║   PRIMARY      : VLSI / DIGITAL HARDWARE                         ║
-║   RESEARCH     : APPROXIMATE COMPUTING                           ║
-║   HDL          : VERILOG / RTL                                   ║
-║   EMBEDDED     : ARDUINO / ESP32                                ║
-║   MODE         : LEARN → BUILD → MEASURE → RESEARCH              ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║                     DRACSINFI19 // CORE                                    ║
+║                                                                            ║
+║   FIELD        : ELECTRONICS & COMMUNICATION ENGINEERING                   ║
+║   PRIMARY      : VLSI / DIGITAL HARDWARE                                   ║
+║   RESEARCH     : APPROXIMATE COMPUTING                                     ║
+║   HDL          : VERILOG / RTL                                             ║
+║   EMBEDDED     : ARDUINO / ESP32                                          ║
+║   MODE         : LEARN → BUILD → MEASURE → RESEARCH                        ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -242,6 +242,7 @@ RESEARCH
 <img src="https://img.shields.io/badge/VLSI-CMOS-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/APPROXIMATE-COMPUTING-00E5FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/EMBEDDED-ESP32-E7352C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QUANTUM-COMMUNICATION-FF00FF?style=for-the-badge"/>
 
 </div>
 
@@ -740,17 +741,17 @@ Alongside VLSI, I enjoy building systems using microcontrollers and sensors.
                        │ MICROCONTROLLER │
                        └────────┬────────┘
                                 │
-              ┌─────────────────┼─────────────────┐
-              │                 │                 │
-              ▼                 ▼                 ▼
-           SENSORS           PROCESSING       OUTPUT
-              │                 │                 │
-              ▼                 ▼                 ▼
-           GPS / IMU         LOGIC / CODE      LEDs
-           PIR / HC-SR04     DATA              BUZZER
-           MICROPHONE        EVENTS            MOTOR
-              │                 │                 │
-              └─────────────────┼─────────────────┘
+                  ┌─────────────┼─────────────┐
+                  │             │             │
+                  ▼             ▼             ▼
+               SENSORS       PROCESSING      OUTPUT
+                  │             │             │
+                  ▼             ▼             ▼
+               GPS / IMU      LOGIC / CODE   LEDs
+               PIR / HC-SR04  DATA           BUZZER
+               MICROPHONE     EVENTS         MOTOR
+                  │             │             │
+                  └─────────────┼─────────────┘
                                 │
                                 ▼
                          COMMUNICATION
@@ -890,6 +891,7 @@ SECURITY ANALYSIS
 | Research | Paper Reading | 🟢 |
 | Research | Literature Review | 🟢 |
 | Research | Gap Identification | 🟡 |
+| Quantum | Communication | 🟡 |
 
 </div>
 
@@ -928,6 +930,11 @@ RESEARCH
 EMBEDDED SYSTEMS
 
 ████████████████████████████░░░░░░░  70%
+
+
+QUANTUM COMMUNICATION
+
+███████████████░░░░░░░░░░░░░░░░░░░░  40%
 ```
 
 </div>
@@ -941,7 +948,7 @@ EMBEDDED SYSTEMS
 ```text
                  ┌────────────────────┐
                  │       IDEA         │
-                 └─────────┬──────────┘
+                 └���────────┬──────────┘
                            ↓
                  ┌────────────────────┐
                  │     RESEARCH       │
@@ -999,27 +1006,15 @@ EMBEDDED SYSTEMS
               └─────┬─────┘
                     ▼
               ┌───────────┐
-              │ GAP       │
+              │ QUESTION  │
               └─────┬─────┘
                     ▼
               ┌───────────┐
-              │ IDEA      │
+              │ HYPOTHESIS│
               └─────┬─────┘
                     ▼
               ┌───────────┐
-              │ RTL       │
-              └─────┬─────┘
-                    ▼
-              ┌───────────┐
-              │ SIMULATE  │
-              └─────┬─────┘
-                    ▼
-              ┌───────────┐
-              │ MEASURE   │
-              └─────┬─────┘
-                    ▼
-              ┌───────────┐
-              │ IMPROVE   │
+              │ NOVELTY   │
               └───────────┘
 ```
 
@@ -1027,536 +1022,23 @@ EMBEDDED SYSTEMS
 
 ---
 
-# 🔭 `22 // FUTURE RESEARCH MAP`
-
-```text
-APPROXIMATE 4:2 COMPRESSORS
-              │
-              ▼
-       NEW COMPRESSORS
-              │
-              ▼
-    ERROR-AWARE ARCHITECTURES
-              │
-              ▼
-       MULTIPLIER DESIGN
-              │
-              ▼
-   ACCURACY-CONTROLLABLE
-          MULTIPLIERS
-              │
-              ▼
-       LOW-POWER DESIGN
-              │
-              ▼
-     HARDWARE ACCELERATORS
-              │
-              ▼
-      APPLICATION STUDY
-              │
-              ▼
-        RESEARCH GAP
-              │
-              ▼
-       ORIGINAL DESIGN
-```
-
----
-
-# 🧩 `23 // WHAT I WANT TO BUILD`
+# 🔗 `22 // CONNECT`
 
 <div align="center">
 
-| SYSTEM | DIRECTION |
-|:---|:---|
-| 🧮 Approximate Arithmetic | Compressor / Multiplier |
-| 💻 RTL Designs | Verilog hardware |
-| 🧬 VLSI Architectures | Low-power / optimized hardware |
-| 🤖 Embedded Systems | Sensors + controllers |
-| 📡 Communication | Hardware communication systems |
-| 🔬 Research | Reproducible experiments |
-| ⚡ Hardware Accelerators | Future exploration |
-| 🧠 Computer Arithmetic | Architecture-level optimization |
-
-</div>
-
----
-
-# 📚 `24 // MY KNOWLEDGE MAP`
-
-```text
-                           ELECTRONICS
-                               │
-             ┌─────────────────┼─────────────────┐
-             │                 │                 │
-             ▼                 ▼                 ▼
-          ANALOG            DIGITAL         COMMUNICATION
-             │                 │                 │
-             │                 ▼                 │
-             │              VERILOG             │
-             │                 │                 │
-             │                 ▼                 │
-             │                RTL                │
-             │                 │                 │
-             └─────────────────┼─────────────────┘
-                               │
-                               ▼
-                         COMPUTER ARITHMETIC
-                               │
-                               ▼
-                         VLSI ARCHITECTURE
-                               │
-                               ▼
-                       APPROXIMATE COMPUTING
-                               │
-                               ▼
-                            RESEARCH
-```
-
----
-
-# 🧰 `25 // HARDWARE MINDSET`
-
-When I encounter a circuit, I want to understand:
-
-```text
-Does it work?
-      ↓
-Why does it work?
-      ↓
-Can the logic be simplified?
-      ↓
-Can the area be reduced?
-      ↓
-Can the power be reduced?
-      ↓
-Can the delay be reduced?
-      ↓
-What happens to accuracy?
-      ↓
-How does the architecture scale?
-      ↓
-Where can it be used?
-      ↓
-What problem is still unsolved?
-```
-
----
-
-# 🧠 `26 // ENGINEERING PHILOSOPHY`
-
-<div align="center">
-
-## DON'T JUST COPY THE CIRCUIT.
-
-## UNDERSTAND THE CIRCUIT.
+<img src="https://img.shields.io/badge/GitHub-dracsInfi19-000000?style=for-the-badge&logo=github&logoColor=white"/>
 
 <br>
 
-## DON'T JUST RUN THE CODE.
-
-## UNDERSTAND THE HARDWARE.
-
-<br>
-
-## DON'T JUST READ THE PAPER.
-
-## QUESTION THE PAPER.
-
-<br>
-
-## DON'T JUST BUILD THE PROJECT.
-
-## MEASURE THE PROJECT.
+### Always learning. Always building. Always researching.
 
 </div>
 
 ---
-
-# 📊 `27 // GITHUB ACTIVITY`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dracsInfi19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dracsInfi19&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=dracsInfi19&theme=tokyonight&hide_border=true&mode=weekly" width="75%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1500&color=00D9FF&center=true&vCenter=true&width=500&lines=ENGINEERING+IS+A+JOURNEY;NOT+A+DESTINATION;BUILD+MEASURE+OPTIMIZE;REPEAT"/>
 
 </div>
 
----
-
-# 🏆 `28 // ACHIEVEMENTS MATRIX`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dracsInfi19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="90%"/>
-
-</div>
-
----
-
-# 📡 `29 // ACTIVITY SIGNAL`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dracsInfi19&theme=tokyo-night&hide_border=true&area=true&custom_title=DRACSINFI19%20ACTIVITY%20SIGNAL" width="100%"/>
-
-</div>
-
----
-
-# 🐍 `30 // CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dracsInfi19/dracsInfi19/output/github-contribution-grid-snake.svg" width="100%"/>
-
-</div>
-
----
-
-# 🎯 `31 // CURRENT OBJECTIVES`
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  [✓] Begin VLSI research journey                       │
-│                                                         │
-│  [✓] Study approximate 4:2 compressors                 │
-│                                                         │
-│  [ ] Implement compressor architectures in Verilog     │
-│                                                         │
-│  [ ] Build exact vs approximate simulations             │
-│                                                         │
-│  [ ] Compare error metrics                              │
-│                                                         │
-│  [ ] Study multiplier architectures                    │
-│                                                         │
-│  [ ] Complete literature review                         │
-│                                                         │
-│  [ ] Identify meaningful research gaps                  │
-│                                                         │
-│  [ ] Develop an original architecture                   │
-│                                                         │
-│  [ ] Build stronger VLSI portfolio                      │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🚀 `32 // LONG-TERM ROADMAP`
-
-<div align="center">
-
-```text
-2026
- │
- ├── DIGITAL DESIGN
- │
- ├── VERILOG
- │
- ├── RTL
- │
- ├── VLSI FUNDAMENTALS
- │
- └── RESEARCH FOUNDATION
- │
- ▼
-2027
- │
- ├── ADVANCED RTL
- │
- ├── COMPUTER ARCHITECTURE
- │
- ├── FPGA
- │
- ├── CMOS
- │
- └── HARDWARE PROJECTS
- │
- ▼
-2028+
- │
- ├── ADVANCED VLSI
- │
- ├── ASIC
- │
- ├── HARDWARE ACCELERATORS
- │
- ├── RESEARCH
- │
- └── ORIGINAL HARDWARE
-```
-
-</div>
-
----
-
-# 🌐 `33 // THE BIGGER PICTURE`
-
-<div align="center">
-
-```text
-                       PHYSICS
-                          │
-                          ▼
-                     ELECTRONICS
-                          │
-                          ▼
-                       CIRCUITS
-                          │
-                          ▼
-                        LOGIC
-                          │
-                          ▼
-                     ARCHITECTURE
-                          │
-                          ▼
-                        RTL
-                          │
-                          ▼
-                       VLSI
-                          │
-                          ▼
-                     PROCESSOR
-                          │
-                          ▼
-                      COMPUTER
-                          │
-                          ▼
-                      SYSTEM
-```
-
-### This is the direction I want to understand.
-
-**From transistor-level ideas to systems that compute.**
-
-</div>
-
----
-
-# 🧪 `34 // THE DIGITAL LAB`
-
-```text
-┌───────────────────────────────────────────────────────────────┐
-│                       DIGITAL LAB                             │
-├───────────────────────────────────────────────────────────────┤
-│                                                               │
-│  LOGIC                                                        │
-│    ├── Gates                                                  │
-│    ├── Adders                                                 │
-│    ├── Multiplexers                                           │
-│    └── Encoders                                               │
-│                                                               │
-│  ARITHMETIC                                                   │
-│    ├── Half Adder                                             │
-│    ├── Full Adder                                             │
-│    ├── Compressors                                            │
-│    └── Multipliers                                            │
-│                                                               │
-│  HDL                                                          │
-│    ├── Verilog                                                │
-│    ├── RTL                                                    │
-│    ├── Testbench                                              │
-│    └── Simulation                                              │
-│                                                               │
-│  VLSI                                                         │
-│    ├── Area                                                   │
-│    ├── Power                                                  │
-│    ├── Delay                                                  │
-│    └── Optimization                                           │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🔥 `35 // BUILD → BREAK → UNDERSTAND`
-
-<div align="center">
-
-```text
-              BUILD
-                │
-                ▼
-              TEST
-                │
-                ▼
-              BREAK
-                │
-                ▼
-             DEBUG
-                │
-                ▼
-           UNDERSTAND
-                │
-                ▼
-             IMPROVE
-                │
-                ▼
-              BUILD
-                │
-                └───────────────► ∞
-```
-
-</div>
-
----
-
-# 💡 `36 // WHY THIS PROFILE EXISTS`
-
-GitHub is becoming my engineering notebook.
-
-Not just:
-
-```text
-"Here are my projects."
-```
-
-But:
-
-```text
-"Here is how I learned to build them."
-```
-
-That means documenting:
-
-- Experiments
-- Failed attempts
-- Research papers
-- Circuit designs
-- RTL
-- Simulations
-- Results
-- Graphs
-- Comparisons
-- Research gaps
-- New ideas
-
----
-
-# ⚡ `37 // ENGINEERING IDENTITY`
-
-<div align="center">
-
-```text
-┌────────────────────────────────────────────────────┐
-│                                                    │
-│                 DRACSINFI19                        │
-│                                                    │
-│             ELECTRONICS ENGINEER                  │
-│                                                    │
-│                    ↓                               │
-│                                                    │
-│                 HARDWARE                           │
-│                    +                               │
-│                  SOFTWARE                          │
-│                    +                               │
-│                 RESEARCH                           │
-│                                                    │
-│                    ↓                               │
-│                                                    │
-│             DIGITAL HARDWARE                       │
-│                    ↓                               │
-│                 VLSI                               │
-│                    ↓                               │
-│              ORIGINAL DESIGN                       │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# 🛰️ `38 // FUTURE LAB`
-
-```text
-                    ┌──────────────────────┐
-                    │     FUTURE LAB       │
-                    └──────────┬───────────┘
-                               │
-        ┌──────────────────────┼──────────────────────┐
-        │                      │                      │
-        ▼                      ▼                      ▼
-   VLSI DESIGN          HARDWARE AI          COMMUNICATION
-        │                      │                      │
-        ▼                      ▼                      ▼
-   RTL / ASIC            ACCELERATORS             DSP
-        │                      │                      │
-        ▼                      ▼                      ▼
- LOW POWER              EDGE HARDWARE          SIGNAL SYSTEMS
-        │                      │                      │
-        └──────────────────────┼──────────────────────┘
-                               │
-                               ▼
-                        ADVANCED RESEARCH
-```
-
----
-
-# 📖 `39 // DOCUMENTATION PHILOSOPHY`
-
-<div align="center">
-
-### If I learn it → document it.
-
-### If I build it → test it.
-
-### If I test it → measure it.
-
-### If I measure it → analyse it.
-
-### If I analyse it → improve it.
-
-### If I improve it → publish the knowledge.
-
-</div>
-
----
-
-# 🌌 `40 // FINAL TRANSMISSION`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=KEEP+LEARNING.;KEEP+BUILDING.;KEEP+QUESTIONING.;KEEP+MEASURING.;KEEP+RESEARCHING.;BUILD+WHAT+DOESN'T+EXIST+YET." />
-
-<br><br>
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║                  SYSTEM STATUS: ACTIVE                   ║
-║                                                          ║
-║       ELECTRONICS      ████████████████████░             ║
-║       DIGITAL DESIGN   █████████████████░░░░             ║
-║       VERILOG          ██████████████░░░░░░              ║
-║       VLSI             █████████████░░░░░░░              ║
-║       RESEARCH         ███████████████░░░░░              ║
-║       HARDWARE         █████████████████░░░              ║
-║                                                          ║
-║                 STATUS: BUILDING                         ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-### `ELECTRONICS • VLSI • HARDWARE • RESEARCH`
-
-<br>
-
-<a href="https://github.com/dracsInfi19">
-<img src="https://img.shields.io/badge/ENTER_THE_LAB-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00E5FF,30:123B5D,60:071A2F,100:020617&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
