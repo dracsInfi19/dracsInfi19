@@ -110,8 +110,8 @@ Multiplier Architectures
 ║   PRIMARY      : VLSI / DIGITAL HARDWARE                                   ║
 ║   RESEARCH     : APPROXIMATE COMPUTING                                     ║
 ║   HDL          : VERILOG / RTL                                             ║
-║   EMBEDDED     : ARDUINO / ESP32                                          ║
-║   MODE         : LEARN → BUILD → MEASURE → RESEARCH                        ║
+║   PROGRAMING LANGUAGE: C /C++ / PYTHON / JAVA                              ║
+║   MODE         : LEARN → BUILD → ANALYSE → UPGRADE → RESEARCH              ║
 ║                                                                            ║
 ╚════════════════════════════════════════════════════════════════════════════╝
 ```
