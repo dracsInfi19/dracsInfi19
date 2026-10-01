@@ -1,23 +1,101 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,30:061A2B,60:123B5D,100:00E5FF&text=DRACSINFI19&fontSize=70&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=ELECTRONICS%20%7C%20VLSI%20%7C%20DIGITAL%20DESIGN%20%7C%20RESEARCH&descSize=18&descAlignY=62" width="100%"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:071A2F,75:0B3048,100:00D9FF&height=260&section=header&text=DRACSINFI19&fontSize=72&fontColor=FFFFFF&fontAlignY=43&animation=fadeIn&desc=ELECTRONICS%20%2F%20VLSI%20%2F%20DIGITAL%20HARDWARE%20%2F%20RESEARCH&descSize=17&descAlignY=68" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=1000&lines=ELECTRONICS+%26+COMMUNICATION+ENGINEERING;VLSI+%7C+RTL+%7C+VERILOG+%7C+DIGITAL+DESIGN;APPROXIMATE+COMPUTING+RESEARCH;HARDWARE+%2B+SOFTWARE+%2B+RESEARCH;BUILDING+THE+HARDWARE+BEHIND+COMPUTATION" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=ENGINEERING+THE+HARDWARE+BEHIND+COMPUTATION;VLSI+%7C+RTL+%7C+VERILOG+%7C+COMPUTER+ARITHMETIC;EXPLORING+APPROXIMATE+COMPUTING;BUILDING+%E2%86%92+MEASURING+%E2%86%92+OPTIMIZING+%E2%86%92+RESEARCHING" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/ECE-ENGINEERING-00E5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VLSI-RESEARCH-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RTL-VERILOG-FF8C00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HARDWARE-BUILDER-00C853?style=for-the-badge"/>
+<table>
+<tr>
+<td align="center" width="25%">
+
+### `01`
+
+**ELECTRONICS**
+
+Digital Systems  
+Embedded Hardware  
+Communication
+
+</td>
+
+<td align="center" width="25%">
+
+### `02`
+
+**VLSI**
+
+RTL Design  
+Verilog  
+Computer Arithmetic
+
+</td>
+
+<td align="center" width="25%">
+
+### `03`
+
+**RESEARCH**
+
+Approximate Computing  
+Compressors  
+Multiplier Architectures
+
+</td>
+
+<td align="center" width="25%">
+
+### `04`
+
+**BUILD**
+
+Arduino  
+ESP32  
+Hardware Experiments
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/◉_SYSTEM-ONLINE-00D9FF?style=flat-square&labelColor=020617"/>
+&nbsp;
+<img src="https://img.shields.io/badge/◉_FOCUS-VLSI-7C3AED?style=flat-square&labelColor=020617"/>
+&nbsp;
+<img src="https://img.shields.io/badge/◉_MODE-RESEARCH-FF8C00?style=flat-square&labelColor=020617"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=dracsInfi19&style=for-the-badge&color=00E5FF&label=VISITORS"/>
+```text
+╭────────────────────────────────────────────────────────────────────╮
+│                                                                    │
+│   HARDWARE                         RESEARCH                         │
+│   ────────                         ────────                         │
+│   DIGITAL DESIGN                   APPROXIMATE COMPUTING            │
+│   RTL / VERILOG                    4:2 COMPRESSORS                  │
+│   EMBEDDED SYSTEMS                 MULTIPLIER ARCHITECTURES         │
+│                                                                    │
+│                         LEARN → BUILD →                             │
+│                    MEASURE → OPTIMIZE → RESEARCH                   │
+│                                                                    │
+╰────────────────────────────────────────────────────────────────────╯
+```
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=dracsInfi19&style=flat-square&color=00D9FF&label=PROFILE+SIGNAL"/>
+
+<br><br>
 
 </div>
+
+---
 
 ---
 
