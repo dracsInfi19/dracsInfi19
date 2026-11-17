@@ -4,6 +4,10 @@
 
 <br>
 
+<a href="https://vichaar-adarsh.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6_LIVE_PORTFOLIO-vichaar--adarsh.vercel.app-00D9FF?style=for-the-badge&labelColor=020617"/></a>
+
+<br><br>
+
 <a href="#portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&labelColor=020617"/></a>
 <a href="#snapshot"><img src="https://img.shields.io/badge/SNAPSHOT-7C3AED?style=for-the-badge&labelColor=020617"/></a>
 <a href="#research"><img src="https://img.shields.io/badge/RESEARCH-FF8C00?style=for-the-badge&labelColor=020617"/></a>
@@ -32,7 +36,13 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dracsInfi19/dracsInfi19/main/assets/portfolio-card.svg" alt="Interactive 3D portfolio preview" width="100%"/>
+<a href="https://vichaar-adarsh.vercel.app/"><img src="https://raw.githubusercontent.com/dracsInfi19/dracsInfi19/main/assets/portfolio-card.svg" alt="Open the interactive 3D portfolio" width="100%"/></a>
+
+<br>
+
+<a href="https://vichaar-adarsh.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6_OPEN_PORTFOLIO-00D9FF?style=for-the-badge&labelColor=020617"/></a>
+<a href="https://vichaar-adarsh.vercel.app/repos.html"><img src="https://img.shields.io/badge/GITHUB_REPOS-7C3AED?style=for-the-badge&labelColor=020617"/></a>
+<a href="https://vichaar-adarsh.vercel.app/contact.html"><img src="https://img.shields.io/badge/CONTACT-FF8C00?style=for-the-badge&labelColor=020617"/></a>
 
 </div>
 
@@ -43,9 +53,9 @@
 
 | Page | What you get |
 |:---|:---|
-| **About me** | Bio, education, a draggable **3D silicon chip** (three.js) and an interactive **full-adder lab** |
-| **GitHub repos** | Pulled live from the GitHub API, with filters |
-| **Contact** | Opens your mail app with the message pre-filled |
+| [**About me**](https://vichaar-adarsh.vercel.app/) | Bio, education, a draggable **3D silicon chip** (three.js) and an interactive **full-adder lab** |
+| [**GitHub repos**](https://vichaar-adarsh.vercel.app/repos.html) | Pulled live from the GitHub API, with filters |
+| [**Contact**](https://vichaar-adarsh.vercel.app/contact.html) | Opens your mail app with the message pre-filled |
 
 Built with plain HTML, CSS and JavaScript plus three.js, with no build step. It respects reduced-motion settings and falls back gracefully without WebGL.
 
@@ -259,7 +269,8 @@ Explores polarized weak-laser communication, key generation and eavesdropper sim
 
 <div align="center">
 
-<a href="mailto:adarshsv14@gmail.com"><img src="https://img.shields.io/badge/Email-adarshsv14%40gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617"/></a>
+<a href="https://vichaar-adarsh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-vichaar--adarsh.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617"/></a>
+<a href="mailto:adarshsv14@gmail.com"><img src="https://img.shields.io/badge/Email-adarshsv14%40gmail.com-FF8C00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617"/></a>
 <a href="https://github.com/dracsInfi19"><img src="https://img.shields.io/badge/GitHub-dracsInfi19-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=020617"/></a>
 
 <br><br>
