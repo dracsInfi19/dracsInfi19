@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 320" width="920" height="320" role="img" aria-label="Preview card of the interactive 3D portfolio">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#020617"/><stop offset="1" stop-color="#0B3048"/></linearGradient>
+<linearGradient id="tg" x1="0" x2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#00D9FF"/></linearGradient>
+<radialGradient id="dieT" cx=".5" cy=".5" r=".7"><stop offset="0" stop-color="#9FF4FF"/><stop offset="1" stop-color="#00A9CC"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#00D9FF" stroke-opacity=".07"/></pattern>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="10"/></filter>
+<clipPath id="clip"><rect width="920" height="320" rx="18"/></clipPath>
+</defs>
+<style>
+.m{font-family:'JetBrains Mono','SF Mono',Menlo,Consolas,monospace}
+.float{animation:fl 4s ease-in-out infinite}
+@keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+.pulse{animation:pu 2s ease-in-out infinite}
+@keyframes pu{0%,100%{opacity:.6}50%{opacity:1}}
+.flow{stroke-dasharray:5 8;animation:dash 1.4s linear infinite}
+@keyframes dash{to{stroke-dashoffset:-26}}
+.in{animation:inn .9s ease-out both}
+@keyframes inn{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.d1{animation-delay:.1s}.d2{animation-delay:.3s}.d3{animation-delay:.5s}.d4{animation-delay:.7s}
+</style>
+<g clip-path="url(#clip)">
+<rect width="920" height="320" fill="url(#bg)"/>
+<rect width="920" height="320" fill="url(#grid)"/>
+<g class="m">
+<text class="in d1" x="44" y="64" font-size="12" letter-spacing="4" fill="#FF8C00">&#9670; PORTFOLIO</text>
+<text class="in d2" x="42" y="112" font-size="34" font-weight="800" fill="url(#tg)">Interactive 3D Portfolio</text>
+<g class="in d3" font-size="14" fill="#B9E9F5">
+<text x="44" y="156"><tspan fill="#00D9FF">&#9670;</tspan> 3D silicon chip &#8212; drag to rotate, click to surge</text>
+<text x="44" y="184"><tspan fill="#00D9FF">&#9670;</tspan> Interactive 1-bit full-adder logic lab</text>
+<text x="44" y="212"><tspan fill="#00D9FF">&#9670;</tspan> Live GitHub repo explorer with filters</text>
+<text x="44" y="240"><tspan fill="#00D9FF">&#9670;</tspan> Circuit-trace background that follows your cursor</text>
+</g>
+<text class="in d4" x="44" y="284" font-size="13" fill="#7FA8C4">three.js &#183; vanilla JS &#183; hand-built, no framework</text>
+</g>
+<g transform="translate(520 36)">
+<g class="float">
+<g transform="matrix(0.95 -0.12 0 1 0 14)">
+<rect x="14" y="14" width="360" height="236" rx="12" fill="#00D9FF" opacity=".12" filter="url(#soft)"/>
+<rect x="8" y="8" width="360" height="236" rx="12" fill="#06182B" stroke="#00D9FF" stroke-opacity=".25"/>
+<rect x="4" y="4" width="360" height="236" rx="12" fill="#08213A" stroke="#00D9FF" stroke-opacity=".35"/>
+<rect width="360" height="236" rx="12" fill="#0B1220" stroke="#00D9FF"/>
+<path d="M0 30H360" stroke="#00D9FF" stroke-opacity=".3"/>
+<circle cx="18" cy="15" r="4" fill="#FF5F57"/><circle cx="32" cy="15" r="4" fill="#FEBC2E"/><circle cx="46" cy="15" r="4" fill="#28C840"/>
+<rect x="80" y="8" width="200" height="14" rx="7" fill="#020617" stroke="#00D9FF" stroke-opacity=".3"/>
+<text class="m" x="180" y="19" font-size="8" text-anchor="middle" fill="#7FA8C4">dracsInfi19 / portfolio</text>
+<rect x="24" y="64" width="110" height="10" rx="3" fill="#FFFFFF" opacity=".9"/>
+<rect x="24" y="82" width="80" height="10" rx="3" fill="#00D9FF"/>
+<rect x="24" y="108" width="120" height="5" rx="2" fill="#7FA8C4" opacity=".7"/>
+<rect x="24" y="120" width="100" height="5" rx="2" fill="#7FA8C4" opacity=".7"/>
+<rect x="24" y="146" width="78" height="22" rx="11" fill="#00D9FF"/>
+<text class="m" x="63" y="161" font-size="9" font-weight="700" text-anchor="middle" fill="#00222E">EXPLORE</text>
+<rect x="110" y="146" width="78" height="22" rx="11" fill="none" stroke="#00D9FF"/>
+<text class="m" x="149" y="161" font-size="9" text-anchor="middle" fill="#00D9FF">CONTACT</text>
+<polygon points="170,186 250,226 330,186 330,180 250,220 170,180" fill="#06182B"/>
+<polygon points="250,146 330,186 250,226 170,186" fill="#0E4166" stroke="#00D9FF" stroke-opacity=".5"/>
+<path class="flow" d="M300 186 L322 186 M178 186 L200 186 M250 158 L250 146 M250 214 L250 226" stroke="#00D9FF" stroke-width="1.5" fill="none"/>
+<polygon points="200,176 250,201 250,213 200,188" fill="#0F1B2E"/>
+<polygon points="250,201 300,176 300,188 250,213" fill="#172845"/>
+<polygon points="250,151 300,176 250,201 200,176" fill="#2B4263" stroke="#00D9FF" stroke-opacity=".5"/>
+<ellipse class="pulse" cx="250" cy="170" rx="30" ry="14" fill="#00D9FF" opacity=".5" filter="url(#soft)"/>
+<polygon points="250,160 274,172 250,184 226,172" fill="url(#dieT)"/>
+</g>
+</g>
+</g>
+</g>
+<rect x=".5" y=".5" width="919" height="319" rx="18" fill="none" stroke="#00D9FF" stroke-opacity=".35"/>
+</svg>
