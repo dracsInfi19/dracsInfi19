@@ -5,6 +5,7 @@
 <br>
 
 <a href="https://vichaar-adarsh.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6_LIVE_PORTFOLIO-vichaar--adarsh.vercel.app-00D9FF?style=for-the-badge&labelColor=020617"/></a>
+<a href="https://www.linkedin.com/in/adarsh-s-vajrawad-4ba66b386"><img src="https://img.shields.io/badge/LINKEDIN-Adarsh_S_Vajrawad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617"/></a>
 
 <br><br>
 
@@ -270,6 +271,7 @@ Explores polarized weak-laser communication, key generation and eavesdropper sim
 <div align="center">
 
 <a href="https://vichaar-adarsh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-vichaar--adarsh.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617"/></a>
+<a href="https://www.linkedin.com/in/adarsh-s-vajrawad-4ba66b386"><img src="https://img.shields.io/badge/LinkedIn-Adarsh_S_Vajrawad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617"/></a>
 <a href="mailto:adarshsv14@gmail.com"><img src="https://img.shields.io/badge/Email-adarshsv14%40gmail.com-FF8C00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617"/></a>
 <a href="https://github.com/dracsInfi19"><img src="https://img.shields.io/badge/GitHub-dracsInfi19-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=020617"/></a>
 
