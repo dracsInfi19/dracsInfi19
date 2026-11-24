@@ -18,7 +18,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=Designing+approximate+4%3A2+compressors+for+efficient+multipliers;Writing+Verilog+RTL+%E2%86%92+simulate+%E2%86%92+measure+%E2%86%92+optimize;Building+ESP32+%26+Arduino+systems+that+sense+the+real+world;Reading+papers+until+I+find+the+research+gap"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=Designing+approximate+4%3A2+compressors+for+efficient+multipliers;Writing+Verilog+RTL+%E2%86%92+simulate+%E2%86%92+measure+%E2%86%92+optimize;Building+a+pipelined+RISC-V+core+with+a+custom+instruction;Building+ESP32+%26+LoRa+systems+that+sense+the+real+world;Reading+papers+until+I+find+the+research+gap"/>
 
 <br>
 
@@ -86,7 +86,7 @@ VLSI · RTL design · Computer arithmetic · Approximate computing
 
 **🛠️ I work with**<br>
 Verilog · Python · C / C++ · Java · Git<br>
-Arduino · ESP32 · Sensors · Wireless communication
+Arduino · ESP32 · LoRa · Sensors · Wireless communication
 
 **🤝 Open to**<br>
 Research collaboration · VLSI / hardware projects · Internships
@@ -187,6 +187,7 @@ Boolean algebra → gates → combinational → sequential → Verilog modules
 
 | Repo | What's in it |
 |:---|:---|
+| [**Gods-Hand**](https://github.com/dracsInfi19/Gods-Hand) | LoRa mesh SOS system for flood scenarios: gateway engine, simulator, 23 unit tests, web dashboard |
 | [**Review-Papers**](https://github.com/dracsInfi19/Review-Papers) | Reviewed research papers with notes |
 | [**RESEARCH-PAPERS**](https://github.com/dracsInfi19/RESEARCH-PAPERS) | Deep learning and research of quantum domains |
 | [**Classical-Projects**](https://github.com/dracsInfi19/Classical-Projects) | Classical engineering projects |
@@ -201,22 +202,22 @@ Boolean algebra → gates → combinational → sequential → Verilog modules
 <tr>
 <td width="33%" valign="top" align="center">
 
-### 🚗 Vehicle Black Box
-**ESP32 system**
+### [📡 Gods Hand](https://github.com/dracsInfi19/Gods-Hand)
+**LoRa mesh SOS system**
 
-`GPS` `IMU` `RTC` `Audio` `Wi-Fi`
+`Python` `LoRa` `ESP32` `Dijkstra` `DBSCAN` `Kalman`
 
-Detects events, logs them with time and location, and uploads the data for analysis.
+Gateway engine for flood scenarios: link-quality routing, SOS validation, priority scoring, GPS refinement and a web dashboard. 23 unit tests. Node firmware and drone verification in progress.
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### 📡 Radar System
-**Arduino system**
+### 🔲 RISC-V Core
+**Pipelined RTL · in progress**
 
-`HC-SR04` `PIR` `Servo`
+`Verilog` `RISC-V` `Pipeline` `Testbench`
 
-Sweeps with a servo, senses objects and motion, and reports through LED, buzzer and serial.
+Pipelined RISC-V core in Verilog with one custom instruction. Goal: measured speedup against area cost.
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -246,7 +247,9 @@ Explores polarized weak-laser communication, key generation and eavesdropper sim
 | VLSI | CMOS fundamentals · Multiplier architecture | 🟡 |
 | Programming | Python | 🟢 |
 | Programming | C / C++ · Java · DSA | 🟡 |
+| Algorithms | Dijkstra routing · DBSCAN clustering · Kalman filtering | 🟡 |
 | Embedded | Arduino · ESP32 | 🟢 |
+| Embedded | LoRa mesh networking | 🟡 |
 | Research | Paper reading · Literature review | 🟢 |
 | Research | Gap identification | 🟡 |
 | Quantum | Communication | 🟡 |
